@@ -2,6 +2,12 @@
 
 A platform game where the goal is simply to kill all enemy and find the exits. Inspired by Pokemon Generation 3 - Browly gym.
 
+Controls:
+A - Move Left
+D - Move Right
+Space - Jump
+J - Attack
+
 Here are the links to all the asset used:
 
 - https://edermunizz.itch.io/free-pixel-art-forest
